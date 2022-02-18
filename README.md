@@ -1,7 +1,9 @@
 <h1 align="rigth">Self-knowledge-Project</h1>
 
-<code><img height="20" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-the-badge&logo=PyCharm&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=flat-the-badge&logo=python&logoColor=blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-the-badge&logo=ubuntu&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-the-badge&logo=vim&logoColor=white"></code>
 
 Este projeto visa auxiliar a todos no processo de autoconhecimento.
 
@@ -60,7 +62,8 @@ $python3 selfknowledge.py
  
  "Conhece a ti mesmo"
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkdin.com/in/flaviane-nascimento-69375816a)](https://www.linkdin.com/in/flaviane-nascimento-69375816a)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkdin.com/in/flaviane-nascimento-69375816a)](https://www.linkdin.com/in/flaviane-nascimento-69375816a)
+ [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Fl0101)](https://www.facebook.com/Fl0101)
 
 # Contribuições
 
